@@ -2,6 +2,8 @@ boxsdk
 boxsdk[jwt]
 luigi
 numpy
+scipy
 neo
 pandas
 tqdm
+click
